@@ -8,7 +8,6 @@
         Chronic Chain is built using the CosmosSDK and starport, utilizing these tools has allowed us to develop our
         blockchain.<br />
         With this dashboard users are able to interact with the Chronic Blockchain<br />
-        Use this template to build UI for your own blockchain.
       </p>
       <div class="sp-welcome__btns">
         <SpButton href="https://chronictoken.io/" target="_blank" type="primary">Documentation</SpButton>
